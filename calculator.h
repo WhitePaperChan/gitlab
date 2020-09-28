@@ -3,6 +3,5 @@ class Calculator
     public:
         static int Add (int, int);
         static int Mul (double, double);
-        int Add (int, int);
-        int Mul (double, double);
+        static int Factorial (int);
 };
